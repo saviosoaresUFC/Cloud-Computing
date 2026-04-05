@@ -34,7 +34,7 @@ As estimativas abaixo consideram um **compromisso de 3 anos** para garantir o me
 | :--- | :--- | :--- |
 | **GPU** | NVIDIA L4 (Mais moderna/potente) | NVIDIA T4 (Geração anterior) |
 | **Performance vCPU/RAM** | 4 vCPU / 16 GB | 8 vCPU / 32 GB |
-| **Custo Mensal (Bloco)** | **27.328,00 USD** | **34.204,00 USD** |
+| **Custo Mensal (Bloco)** | **27.180,71 USD** | **34.204,00 USD** |
 
 ### Descrição Comparativa:
 1.  **Custo-Benefício:** O **Google Cloud** apresentou um valor mensal inferior para a unidade. Embora a instância da AWS (`g4dn.2xlarge`) ofereça o dobro de memória e núcleos de processamento, para a maioria das atividades de ensino de Computação Gráfica, a GPU é o gargalo principal.
